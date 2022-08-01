@@ -1,0 +1,7 @@
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\bin\Debug\NeuralNetworkCSharp.dll.config
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\bin\Debug\NeuralNetworkCSharp.dll
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\bin\Debug\NeuralNetworkCSharp.pdb
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\obj\Debug\NeuralNetworkCSharp.csproj.AssemblyReference.cache
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\obj\Debug\NeuralNetworkCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\obj\Debug\NeuralNetworkCSharp.dll
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\NeuralNetworkCSharp\obj\Debug\NeuralNetworkCSharp.pdb

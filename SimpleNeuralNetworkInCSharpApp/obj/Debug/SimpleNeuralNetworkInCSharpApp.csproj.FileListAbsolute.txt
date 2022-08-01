@@ -1,0 +1,15 @@
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\bin\Debug\SimpleNeuralNetworkInCSharpApp.exe.config
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\bin\Debug\SimpleNeuralNetworkInCSharpApp.exe
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\bin\Debug\SimpleNeuralNetworkInCSharpApp.pdb
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\bin\Debug\NeuralNetworkCSharp.dll
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\bin\Debug\NeuralNetworkCSharp.pdb
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\bin\Debug\NeuralNetworkCSharp.dll.config
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.csproj.AssemblyReference.cache
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.frmMain.resources
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.Properties.Resources.resources
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.csproj.GenerateResource.cache
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.csproj.CopyComplete
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.exe
+C:\Users\Master\Source\Repos\SimpleNeuralNetworkInCSharp\SimpleNeuralNetworkInCSharpApp\obj\Debug\SimpleNeuralNetworkInCSharpApp.pdb
