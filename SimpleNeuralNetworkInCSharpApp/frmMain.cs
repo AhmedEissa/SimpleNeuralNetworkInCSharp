@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Author: Ahmed Eissa
+ * Website: App-one.co.uk
+ * Year: 2022
+ */
+using System;
 using System.Windows.Forms;
 using NeuralNetworkCSharp;
 using NeuralNetworkCSharp.ActivationFunctions;
