@@ -19,7 +19,9 @@ namespace SimpleNeuralNetworkInCSharpApp
             this.Cursor = Cursors.WaitCursor;
             var network = new SimpleNeuralNetwork(3);
             var layerFactory = new NeuralLayerFactory();
+            network.AddLayer(layerFactory.CreateNeuralLayer(2, new RectifiedActivationFuncion(), new WeightedSumFunction()));
             network.AddLayer(layerFactory.CreateNeuralLayer(3, new RectifiedActivationFuncion(), new WeightedSumFunction()));
+            network.AddLayer(layerFactory.CreateNeuralLayer(2, new RectifiedActivationFuncion(), new WeightedSumFunction()));
             network.AddLayer(layerFactory.CreateNeuralLayer(1, new SigmoidActivationFunction(0.7), new WeightedSumFunction()));
             
             network.PushExpectedValues(
@@ -59,3 +61,8 @@ namespace SimpleNeuralNetworkInCSharpApp
         }
     }
 }
+
+
+
+//Online source: 
+//https://rubikscode.net/2022/07/04/implementing-simple-neural-network-in-c/?fbclid=IwAR2y1oEIllGUfsjzyjca4vlRqNTJLMmmnayhJBiwt_Jnjhh1CHEJ6pTiHUI
